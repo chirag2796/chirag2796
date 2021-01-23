@@ -29,6 +29,18 @@ I'm Chirag, a self-motivated researcher and open source contributer.
 <img src="ae-logo.png" width=75>
 </div>
 
+<br />
+
+### Let's Connect :coffee:
+<p align="center">
+	<a href="https://www.linkedin.com/in/c-gupta/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+    <a href="https://www.youtube.com/user/masterelitechirag"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="YouTube"/></a>
+	<a href="https://github.com/chirag2796"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+    <a href="https://scholar.google.com/citations?user=oGiaFmUAAAAJ"><img src="https://img.icons8.com/bubbles/50/000000/graduation-cap.png" alt="Google Scholar"/></a>
+    <a href="https://play.google.com/store/apps/developer?id=CGoS"><img src="https://img.icons8.com/bubbles/50/000000/google-play.png" alt="Play Store"/></a>
+	<a href="https://www.instagram.com/chirag.2796/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+</p>
+
 <br/>
 <br/>
 <h3 align="center">
