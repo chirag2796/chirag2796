@@ -30,8 +30,11 @@ I'm Chirag, a self-motivated researcher and open source contributer.
 </div>
 
 <br />
-
+<div align="center">
 ### Let's Connect :coffee:
+<br>
+<br>
+</div>
 <p align="center">
 	<a href="https://www.linkedin.com/in/c-gupta/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
     <a href="https://www.youtube.com/user/masterelitechirag"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="YouTube"/></a>
