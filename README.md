@@ -19,14 +19,14 @@ I'm Chirag, a self-motivated researcher and open source contributer.
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chirag2796&show_icons=true" alt="chirag2796" width=500 /> </p>
 
 
-<p align="center">Skilled in</span>
+<h3 align="center">Skilled in</h2>
 <br>
 <br>
 <div align="center">
 <img src="ps-logo.png" width=230>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <img src="3ds-logo.png" width=200>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <img src="ae-logo.png" width=75>
 </div>
 
