@@ -1,6 +1,6 @@
 ![alt text](https://github.com/chirag2796/chirag2796/blob/main/github-banner.gif?raw=true)
 
-![alt text](https://github.com/chirag2796/chirag2796/blob/main/tech-stacl.jpg?raw=true)
+![alt text](https://github.com/chirag2796/chirag2796/blob/main/tech-stack.jpg?raw=true)
 
 
 
