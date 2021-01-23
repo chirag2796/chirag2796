@@ -22,9 +22,13 @@ I'm Chirag, a self-motivated researcher and open source contributer.
 <p align="center">Skilled in</span>
 <br>
 <br>
-<img src="ps-logo.png" align="left" width=250>
-<img src="3ds-logo.png" align="center" width=220>
-<img src="ae-logo.png" align="right" width=80>
+<div align="center">
+<img src="ps-logo.png" width=230>
+&nbsp;&nbsp;&nbsp;
+<img src="3ds-logo.png" width=200>
+&nbsp;&nbsp;&nbsp;
+<img src="ae-logo.png" width=75>
+</div>
 
 <br/>
 <br/>
