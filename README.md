@@ -16,15 +16,15 @@ I'm Chirag, a self-motivated researcher and open source contributer.
 <a href="http://devchirag2796.pythonanywhere.com/">Huddle demo</a>
 </p>
 <br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chirag2796&show_icons=true" alt="chirag2796" width=300 /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chirag2796&show_icons=true" alt="chirag2796" width=500 /> </p>
 
 
 <p align="center">Skilled in</span>
 <br>
 <br>
-<img src="ps-logo.png" align="left" width=150>
-<img src="3ds-logo.png" align="center" width=120>
-<img src="ae-logo.png" align="right" width=50>
+<img src="ps-logo.png" align="left" width=250>
+<img src="3ds-logo.png" align="center" width=220>
+<img src="ae-logo.png" align="right" width=80>
 
 <br/>
 <br/>
