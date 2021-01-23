@@ -1,4 +1,5 @@
 ### Hi there 👋
+![alt text](https://github.com/chirag2796/chirag2796/blob/main/github-banner.gif?raw=true)
 
 <!--
 **chirag2796/chirag2796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
