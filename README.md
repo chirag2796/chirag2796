@@ -8,29 +8,25 @@ I'm Chirag, a self-motivated researcher and open source contributer.
 </h4>
 <p  align="center">
 <a href="http://cgupta.tech/">cgupta.tech</a>
-<span style="margin-right: 4%;"></span>
+<span>&nbsp;&nbsp;&nbsp;</span>
 <a href="http://cgupta.tech/quickdraw.html">CNN demo</a>
-<span style="margin-right: 4%;"></span>
+<span>&nbsp;&nbsp;&nbsp;</span>
 <a href="http://cgupta.tech/RnnTextGenerator.html">RNN demo</a>
-<span style="margin-right: 4%;"></span>
+<span>&nbsp;&nbsp;&nbsp;</span>
 <a href="http://devchirag2796.pythonanywhere.com/">Huddle demo</a>
 </p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chirag2796&show_icons=true" alt="chirag2796" style="width: 70%; margin-top: 5%" /> </p>
+<br>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chirag2796&show_icons=true" alt="chirag2796" width=300 /> </p>
 
 
 <p align="center">Skilled in</span>
-<div align="center" style="width: 100%; display:inline-flex; margin-bottom: 10%">
-<div style="width: 33%; margin-left: 2%; margin-right: 11%;">
-    <img src="ps-logo.png" style="width: 100%;">
-</div>
-<div style="width: 30%; margin-right: 11%;">
-    <img src="3ds-logo.png" style="width: 100%;">
-</div>
-<div style="width: 12%; margin-right: 1%;">
-    <img src="ae-logo.png" style="width: 100%;">
-</div>
-</div>
+<br>
+<br>
+<img src="ps-logo.png" align="left" width=150>
+<img src="3ds-logo.png" align="center" width=120>
+<img src="ae-logo.png" align="right" width=50>
+
+<br/>
 <br/>
 <h3 align="center">
 My Tech Stack
