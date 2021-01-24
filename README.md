@@ -30,18 +30,21 @@ I'm Chirag, a self-motivated researcher and open source contributer.
 </div>
 
 <br />
-<div align="center">
+
+⚡ Fun fact:
+- 👯 I’m looking to collaborate on projects that are using Python and Machine Learning.
+- 🌱 I’m currently learning advanced mathematics required for ML and Data Science research.
+- 🔭 I am a history buff, and my inteerests include Social Science and Law
+
+
 ### Let's Connect :coffee:
-<br>
-<br>
-</div>
 <p align="center">
 	<a href="https://www.linkedin.com/in/c-gupta/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
     <a href="https://www.youtube.com/user/masterelitechirag"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="YouTube"/></a>
 	<a href="https://github.com/chirag2796"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
     <a href="https://scholar.google.com/citations?user=oGiaFmUAAAAJ"><img src="https://img.icons8.com/bubbles/50/000000/graduation-cap.png" alt="Google Scholar"/></a>
     <a href="https://play.google.com/store/apps/developer?id=CGoS"><img src="https://img.icons8.com/bubbles/50/000000/google-play.png" alt="Play Store"/></a>
-	<a href="https://www.instagram.com/chirag.2796/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.instagram.com/abhisheksisodiya__/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
 
 <br/>
