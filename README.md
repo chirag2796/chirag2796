@@ -34,7 +34,7 @@ I'm Chirag, a self-motivated researcher and open source contributer.
 ⚡ Fun facts:
 - 👯 I’m looking to collaborate on projects that are using Python and Machine Learning.
 - 🌱 I’m currently learning advanced mathematics required for ML and Data Science research.
-- 🔭 I am a history buff, and my inteerests include Social Science and Law
+- 🔭 I am a history buff, and my interests include Social Science and Law
 
 
 ### Let's Connect :coffee:
